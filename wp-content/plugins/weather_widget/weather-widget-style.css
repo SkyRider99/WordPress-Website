@@ -1,0 +1,48 @@
+.hassan-weather-widget {
+    background-color: linear-gradient(120deg, #6495ED, #00008B);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        'titel titel'
+        'bild desc'
+        'grader grader'
+        'ovrigt ovrigt';
+        padding: 1rem 0;
+}
+
+.hassan-weather-widget .titel{
+    grid-area: titel;
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: bold;
+    background-color: #6495ED;
+}
+
+.hassan-weather-widget .bild{
+    grid-area: bild;
+}
+
+.hassan-weather-widget .desc{
+    grid-area: desc;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.hassan-weather-widget .grader{
+    grid-area: grader;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.hassan-weather-widget .ovrigt{
+    grid-area: ovrigt;
+    text-align: center;
+}
+
+.hassan-weather-widget p{
+    padding: 0;
+    margin: 0;
+}

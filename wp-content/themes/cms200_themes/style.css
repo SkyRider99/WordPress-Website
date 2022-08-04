@@ -1,0 +1,240 @@
+/* 
+    Theme Name: CMS200 Theme
+    Theme URI: http://localhost
+    Description: Hassan tema för kursen CMS200
+    Copyright: GPLv2
+    Version: 1.0
+    Author: Hassan El Alaoui
+    Author URI: https://hassan.org
+    Tags: simple, clean
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* ============================================================================ */
+/* STANDARD STUFF                                                               */
+/* ============================================================================ */
+body {
+    font-family: Lato, serif;
+    font-size: 1rem;
+    background-color: #fff;
+}
+
+#carousell img{
+    width: 100%;
+}
+
+p{
+    padding-bottom: 2rem;
+    line-height: 140%;
+}
+
+
+
+
+
+
+
+
+/* ============================================================================ */
+/* HEADLINES & FONTS                                                            */
+/* ============================================================================ */
+h1, h2, h3, h4, h5, h6{
+    font-family: Lora, serif;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+h1{font-size: 2rem;}
+h2{font-size: 1.8rem;}
+h3{font-size: 1.6rem;}
+h4{font-size: 1.4rem;}
+h5{font-size: 1.2rem;}
+h6{font-size: 1rem;}
+
+
+
+
+
+
+/* ============================================================================ */
+/* LAYOUT STUFF                                                                 */
+/* ============================================================================ */
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 1400px;
+    margin: 0 auto;
+}
+
+header.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    background-color: #f00;
+}
+
+nav.main{
+    background-color: aquamarine;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    background-color: black;
+}
+
+section.main{
+    background-color: blue;
+}
+
+aside.sidebar-left{
+    background-color: blueviolet;
+}
+
+aside.sidebar-right{
+    background-color: chocolate;
+}
+
+
+
+
+
+
+/* ============================================================================ */
+/* NAVIGATION                                                                   */
+/* ============================================================================ */
+nav.main ul{
+    display: flex;
+    list-style-type: none;
+    font: 1.2rem 'Lora', serif;
+    font-weight: bold;
+}
+
+nav.main li a{
+    display: block;
+    height: 100%;
+    padding: 1.2rem 2rem;
+}
+
+nav.main li a:hover{
+    background-color: navy;
+}
+
+
+
+
+
+/* ============================================================================ */
+/* FOOTER SECTION                                                               */
+/* ============================================================================ */
+footer.main{
+    display: grid;
+    grid-template: 'foot1 foot2 foot3';
+}
+
+footer .foot1{
+    background-color: cornflowerblue;
+    grid-area: foot1;
+}
+
+footer .foot2{
+    background-color: black;
+    grid-area: foot2;
+}
+
+footer .foot3{
+    background-color: rgb(3, 75, 51);
+    grid-area: foot3;
+}
+
+/* ============================================================================ */
+/* MEDIA QUERIES: TABLET                                                         */
+/* ============================================================================ */
+
+@media(max-width:1400px){
+    .container{
+        width: 100%;
+    }
+    .content{
+        grid-template-columns: 2fr 1fr;
+    }
+    section.main{
+        grid-column: 1;
+        grid-row: 1 / span 2;
+    }
+
+    footer.main{
+        grid-template: 
+            'foot2 foot2'
+            'foot1 foot3';
+    }
+}
+
+/* ============================================================================ */
+/* MEDIA QUERIES: PHONE                                                         */
+/* ============================================================================ */
+
+@media(max-width: 900px){
+
+    header.main{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .content{
+        grid-template-columns: 1fr;
+    }
+   
+    footer.main{
+        grid-template: 
+            'foot1'
+            'foot2'
+            'foot3';
+    }
+}

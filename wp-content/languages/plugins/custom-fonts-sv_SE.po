@@ -1,0 +1,273 @@
+# Translation of Plugins - Custom Fonts - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Custom Fonts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-22 18:35:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Custom Fonts - Stable (latest release)\n"
+
+#: includes/class-bsf-custom-fonts-admin.php:226
+#: includes/class-bsf-custom-fonts-admin.php:325
+msgid "Ultra-Bold 900"
+msgstr "Ultrafet 900"
+
+#: includes/class-bsf-custom-fonts-admin.php:225
+#: includes/class-bsf-custom-fonts-admin.php:324
+msgid "Extra-Bold 800"
+msgstr "Extra fet 800"
+
+#: includes/class-bsf-custom-fonts-admin.php:224
+#: includes/class-bsf-custom-fonts-admin.php:323
+msgid "Bold 700"
+msgstr "Fet 700"
+
+#: includes/class-bsf-custom-fonts-admin.php:223
+#: includes/class-bsf-custom-fonts-admin.php:322
+msgid "Semi-Bold 600"
+msgstr "Semifet 600"
+
+#: includes/class-bsf-custom-fonts-admin.php:222
+#: includes/class-bsf-custom-fonts-admin.php:321
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: includes/class-bsf-custom-fonts-admin.php:221
+#: includes/class-bsf-custom-fonts-admin.php:320
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: includes/class-bsf-custom-fonts-admin.php:220
+#: includes/class-bsf-custom-fonts-admin.php:319
+msgid "Light 300"
+msgstr "Lätt 300"
+
+#: includes/class-bsf-custom-fonts-admin.php:215
+#: includes/class-bsf-custom-fonts-admin.php:314
+msgid "Font weight"
+msgstr "Typsnittsvikt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:95
+msgid "← Go to Fonts"
+msgstr "← Gå till typsnitten"
+
+#: includes/class-bsf-custom-fonts-admin.php:218
+#: includes/class-bsf-custom-fonts-admin.php:317
+msgid "Thin 100"
+msgstr "Tunn 100"
+
+#: includes/class-bsf-custom-fonts-admin.php:191
+#: includes/class-bsf-custom-fonts-admin.php:279
+msgid "Font Fallback"
+msgstr "Typsnittsreserv"
+
+#: includes/class-bsf-custom-fonts-admin.php:219
+#: includes/class-bsf-custom-fonts-admin.php:318
+msgid "Extra-Light 200"
+msgstr "Extra lätt 200"
+
+#: includes/class-bsf-custom-fonts-admin.php:216
+#: includes/class-bsf-custom-fonts-admin.php:315
+msgid "Select font-weight property for this font"
+msgstr "Välj egenskaper för typsnittsvikt för detta typsnitt"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "Lär dig mer."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr "Detta kommer att gälla för alla webbplatser från nätverket."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "Användningsspårning"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "Nej tack"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "Ja! Tillåt det"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr "Lär dig mer."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "Detta kommer att gälla för alla webbplatser från nätverket."
+
+#: lib/notices/class-astra-notices.php:125
+msgid "WordPress Nonce not validated."
+msgstr "WordPress engångskod inte validerad."
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "Vill du hjälpa till att göra <strong>%1s</strong> ännu bättre? Tillåt oss att samla icke-känslig diagnostisk data och användningsinformation."
+
+#: includes/class-bsf-custom-fonts-admin.php:195
+#: includes/class-bsf-custom-fonts-admin.php:283
+msgid "Font Display"
+msgstr "Visning av typsnitt"
+
+#: includes/class-bsf-custom-fonts-admin.php:196
+#: includes/class-bsf-custom-fonts-admin.php:284
+msgid "Select font-display property for this font"
+msgstr "Välj egenskap för typsnittsvisning för detta typsnitt"
+
+#: includes/class-bsf-custom-fonts-admin.php:234
+#: includes/class-bsf-custom-fonts-admin.php:342
+msgid "Font .otf"
+msgstr "Typsnitt .otf"
+
+#: includes/class-bsf-custom-fonts-admin.php:234
+#: includes/class-bsf-custom-fonts-admin.php:342
+msgid "Upload the font's otf file or enter the URL."
+msgstr "Ladda upp typsnittets otf-fil eller ange URL:en."
+
+#: classes/class-bsf-custom-fonts-render.php:146
+msgid "Custom"
+msgstr "Anpassad"
+
+#: includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "Tilläggsnamn:"
+
+#: includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "Tilläggsbeskrivning:"
+
+#. Author URI of the plugin
+msgid "http://www.brainstormforce.com"
+msgstr "http://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. Plugin URI of the plugin
+msgid "http://www.wpastra.com/"
+msgstr "http://www.wpastra.com/"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:94
+msgid "No fonts found"
+msgstr "Inga typsnitt hittades"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:93
+msgid "New Font Name"
+msgstr "Nytt typsnittsnamn"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:92
+msgid "Add New Font"
+msgstr "Lägg till nytt typsnitt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:91
+msgid "Update Font"
+msgstr "Uppdatera typsnitt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:90
+msgid "Edit Font"
+msgstr "Redigera typsnitt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:89
+msgid "Parent Font:"
+msgstr "Överordnat typsnitt:"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:88
+msgid "Parent Font"
+msgstr "Överordnat typsnitt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:87
+msgid "All Fonts"
+msgstr "Alla typsnitt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:86
+msgid "Search Fonts"
+msgstr "Sök typsnitt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:85
+msgctxt "Admin menu name"
+msgid "Custom Fonts"
+msgstr "Anpassade typsnitt"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:84
+msgid "Font"
+msgstr "Typsnitt"
+
+#: includes/class-bsf-custom-fonts-admin.php:396
+#: includes/class-bsf-custom-fonts-admin.php:556
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: includes/class-bsf-custom-fonts-admin.php:233
+#: includes/class-bsf-custom-fonts-admin.php:340
+msgid "Font .svg"
+msgstr "Typsnitt .svg"
+
+#: includes/class-bsf-custom-fonts-admin.php:232
+#: includes/class-bsf-custom-fonts-admin.php:338
+msgid "Font .eot"
+msgstr "Typsnitt .eot"
+
+#: includes/class-bsf-custom-fonts-admin.php:231
+#: includes/class-bsf-custom-fonts-admin.php:336
+msgid "Font .ttf"
+msgstr "Typsnitt .ttf"
+
+#: includes/class-bsf-custom-fonts-admin.php:230
+#: includes/class-bsf-custom-fonts-admin.php:334
+msgid "Font .woff"
+msgstr "Typsnitt .woff"
+
+#: includes/class-bsf-custom-fonts-admin.php:229
+#: includes/class-bsf-custom-fonts-admin.php:332
+msgid "Font .woff2"
+msgstr "Typsnitt .woff2"
+
+#: includes/class-bsf-custom-fonts-admin.php:230
+#: includes/class-bsf-custom-fonts-admin.php:334
+msgid "Upload the font's woff file or enter the URL."
+msgstr "Ladda upp typsnittets woff-fil eller ange URL:en."
+
+#: includes/class-bsf-custom-fonts-admin.php:231
+#: includes/class-bsf-custom-fonts-admin.php:336
+msgid "Upload the font's ttf file or enter the URL."
+msgstr "Ladda upp typsnittets ttf-fil eller ange URL:en."
+
+#: includes/class-bsf-custom-fonts-admin.php:232
+#: includes/class-bsf-custom-fonts-admin.php:338
+msgid "Upload the font's eot file or enter the URL."
+msgstr "Ladda upp typsnittets eot-fil eller ange URL:en."
+
+#: includes/class-bsf-custom-fonts-admin.php:233
+#: includes/class-bsf-custom-fonts-admin.php:340
+msgid "Upload the font's svg file or enter the URL."
+msgstr "Ladda upp typsnittets svg-fil eller ange URL:en."
+
+#: includes/class-bsf-custom-fonts-admin.php:229
+#: includes/class-bsf-custom-fonts-admin.php:332
+msgid "Upload the font's woff2 file or enter the URL."
+msgstr "Ladda upp typsnittets woff2-fil eller ange URL:en."
+
+#: includes/class-bsf-custom-fonts-admin.php:117
+msgid "The name of the font as it appears in the customizer options."
+msgstr "Namnet på typsnittet som det visas i anpassaren alternativ."
+
+#. Plugin Name of the plugin
+#: includes/class-bsf-custom-fonts-admin.php:87
+#: includes/class-bsf-custom-fonts-taxonomy.php:83
+msgid "Custom Fonts"
+msgstr "Custom Fonts"
+
+#. translators: 1: Astra theme from wordpress.org
+#: classes/class-bsf-custom-fonts-render.php:420
+msgid "Custom Fonts Plugin requires minimum 1.0.16 version of the Astra Theme."
+msgstr "Tillägget Custom Fonts kräver minst version 1.0.16 av temat Astra."

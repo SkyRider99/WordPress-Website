@@ -1,0 +1,1514 @@
+# Translation of Themes - Spice Software in Swedish
+# This file is distributed under the same license as the Themes - Spice Software package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-22 20:47:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Spice Software\n"
+
+#. Theme Name of the theme
+msgid "Spice Software"
+msgstr "Spice Software"
+
+#. Description of the theme
+msgid "Spice Software WordPress Theme is a lightweight, elegant, fully responsive, and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, eCommerce, finance, agency, travel, photography, design, arts, personal, and any other creative websites and blogs. The theme is developed using the Bootstrap 4 framework. It comes with a predesigned home page, good-looking header designs, and a number of content sections that you can easily customize. It also has lots of customization options (banner, services, testimonial, etc) that will help you create a beautiful, unique website in a short time. Spice Software is compatible with popular plugins like Polylang, WooCommerce, and Contact Form 7. Spice Software theme is available in several locales. (DEMO: https://spice-software.spicethemes.com/)"
+msgstr "WordPress-temat Spice Software är ett litet, elegant, helt responsivt och översättningsklart tema som hjälper dig att bygga mycket vackra bloggar och webbplatser. Temat passar bra för företag, advokatbyråer, e-handel, finansföretag, byråer, resande, fotografi, design, konstnärer, personliga sidor och alla andra typer av kreativa webbplatser och bloggar. Temat bygger på ramverket Bootstrap 4. Det levereras med en fördesignad startsida, vackra sidhuvudsdesigner och ett antal innehållssektioner som du enkelt kan anpassa. Temat innehåller även en lång rad anpassningsmöjligheter (banderoller, tjänster, omdömen m.m.) som låter dig snabbt skapa en vacker och unik webbplats. Spice Software är kompatibelt med olika populära tillägg, såsom Polylang, WooCommerce och Contact Form 7. Temat Spice Software finns översatt till en rad olika språk. (DEMO: https://spice-software.spicethemes.com/)"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#. translators: 1: title.
+#: comments.php:29
+msgid "1 comment"
+msgstr "1 kommentar"
+
+#: comments.php:62
+msgid "Your Email"
+msgstr "Din e-post"
+
+#: template-parts/content-search.php:52 template-parts/content.php:47
+msgid "blog-title"
+msgstr "bloggrubrik"
+
+#: template-parts/content-search.php:31 template-parts/content-single.php:28
+#: template-parts/content.php:30
+msgid "Categories"
+msgstr "Kategorier"
+
+#: template-parts/content-search.php:25 template-parts/content-single.php:22
+#: template-parts/content.php:25
+msgid "tag"
+msgstr "etikett"
+
+#: template-parts/content-none.php:4
+msgid "Nothing found"
+msgstr "Inget hittades"
+
+#: template-parts/auth-details.php:15
+msgid "View All Posts"
+msgstr "Visa alla inlägg"
+
+#: template-parts/auth-details.php:7
+msgid "Written by:"
+msgstr "Skrivet av:"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Sida, fullbredd"
+
+#: template-business.php:22
+msgid "This template shows the homepage sections, and to show these sections you have to activate the companion plugin."
+msgstr "Denna mall visar startsidans sektioner. För att visa dessa sektioner behöver du aktivera tillägget Companion."
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Företagsmall"
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Sök"
+
+#: inc/widgets/sidebars.php:60 inc/widgets/sidebars.php:62
+msgid "WooCommerce sidebar widget area"
+msgstr "Widgetområde i sidopanelen för WooCommerce"
+
+#: inc/widgets/sidebars.php:50 inc/widgets/sidebars.php:52
+msgid "Footer widget 4"
+msgstr "Widget 4 i sidfot"
+
+#: inc/widgets/sidebars.php:42
+msgid "Footer widget area 3"
+msgstr "Widgetområde 3 i sidfoten"
+
+#: inc/widgets/sidebars.php:40
+msgid "Footer widget 3"
+msgstr "Widget 3 i sidfot"
+
+#: inc/widgets/sidebars.php:32
+msgid "Footer widget area 2"
+msgstr "Widgetområde 2 i sidfoten"
+
+#: inc/widgets/sidebars.php:30
+msgid "Footer widget 2"
+msgstr "Widget 2 i sidfot"
+
+#: inc/widgets/sidebars.php:22
+msgid "Footer widget area 1"
+msgstr "Widgetområde 1 i sidfoten"
+
+#: inc/widgets/sidebars.php:20
+msgid "Footer widget 1"
+msgstr "Widget 1 i sidfot"
+
+#: inc/widgets/sidebars.php:10 inc/widgets/sidebars.php:12
+msgid "Sidebar widget area"
+msgstr "Widgetområde i sidopanel"
+
+#: inc/header/header-nav.php:37 inc/header/header-nav.php:45
+#: inc/header/header-nav.php:47
+msgid "Search"
+msgstr "Sök"
+
+#: inc/customizer/single-blog-options.php:72
+msgid "Hide/Show Tag"
+msgstr "Dölj/visa etikett"
+
+#: inc/customizer/single-blog-options.php:56
+msgid "Hide/Show Category"
+msgstr "Dölj/visa kategori"
+
+#: inc/customizer/single-blog-options.php:41
+msgid "Hide/Show Date"
+msgstr "Dölj/visa datum"
+
+#: inc/customizer/single-blog-options.php:26
+msgid "Hide/Show Author"
+msgstr "Dölj/visa författare"
+
+#: inc/customizer/single-blog-options.php:11
+msgid "Single Post"
+msgstr "Enskilt inlägg"
+
+#: inc/customizer/helper-function.php:39
+msgid "%1$s  %2$s"
+msgstr "%1$s  %2$s"
+
+#: inc/customizer/helper-function.php:15 inc/customizer/helper-function.php:19
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr "<i class=\"fa fa-angle-double-right\"></i>"
+
+#: inc/customizer/helper-function.php:14 inc/customizer/helper-function.php:20
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr "<i class=\"fa fa-angle-double-left\"></i>"
+
+#: inc/customizer/general-settings.php:247
+#: inc/customizer/general-settings.php:263
+msgid "Container Width"
+msgstr "Behållarens bredd"
+
+#: inc/customizer/general-settings.php:237
+msgid "Enable/Disable Cart Icon"
+msgstr "Aktivera/inaktivera ikon för varukorg"
+
+#: inc/customizer/general-settings.php:221
+msgid "Enable/Disable Search Icon"
+msgstr "Aktivera/inaktivera ikon för sökning"
+
+#: inc/customizer/general-settings.php:186
+msgid "Button Border Radius"
+msgstr "Kantradie på knapp"
+
+#: inc/customizer/general-settings.php:170
+msgid "Open link in a new tab"
+msgstr "Öppna länk i en ny flik"
+
+#: inc/customizer/general-settings.php:154
+msgid "Button Link"
+msgstr "Knapplänk"
+
+#: inc/customizer/general-settings.php:126
+#: inc/customizer/general-settings.php:205
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/customizer/general-settings.php:125
+msgid "Button"
+msgstr "Knapp"
+
+#: inc/customizer/general-settings.php:124
+msgid "None"
+msgstr "Ingen"
+
+#: inc/customizer/general-settings.php:104
+#: inc/customizer/general-settings.php:119
+msgid "After Menu"
+msgstr "Eftermeny"
+
+#: inc/customizer/general-settings.php:65
+msgid "Enable/Disable Sticky Header"
+msgstr "Aktivera/inaktivera klistrat sidhuvud"
+
+#: inc/customizer/general-settings.php:49
+msgid "Sticky Header"
+msgstr "Klistrat sidhuvud"
+
+#: inc/customizer/general-settings.php:38
+msgid "Enable/Disable Preloader"
+msgstr "Aktivera/inaktivera förhandsladdning"
+
+#: inc/customizer/general-settings.php:22
+msgid "Preloader"
+msgstr "Förhandsladdning"
+
+#: inc/customizer/customizer_typography.php:1696
+msgid "Enable Footer Widgets Typography"
+msgstr "Aktivera typografi för widgetar i sidfot"
+
+#: inc/customizer/customizer_typography.php:1527
+msgid "Enable Sidebar Widgets Typography"
+msgstr "Aktivera typografi för widgetar i sidopanel"
+
+#: inc/customizer/customizer_typography.php:1447
+msgid "Only for Product checkout page"
+msgstr "Endast på sida för betalning av produkt"
+
+#: inc/customizer/customizer_typography.php:1372
+msgid "Only for product title in Shop Page"
+msgstr "Endast på produktrubriker på butikssidan"
+
+#: inc/customizer/customizer_typography.php:1296
+msgid "Only for product detail page"
+msgstr "Endast på sida med produktuppgifter"
+
+#: inc/customizer/customizer_typography.php:1279
+msgid "Enable Shop Page Typography"
+msgstr "Aktivera typografi för butikssida"
+
+#: inc/customizer/customizer_typography.php:1265
+msgid "Shop Page"
+msgstr "Butiksida"
+
+#: inc/customizer/customizer_typography.php:1211
+msgid "Enable Blog/Archive/Single Post Typography"
+msgstr "Aktivera typografi för blogg/arkiv/enstaka inlägg"
+
+#: inc/customizer/customizer_typography.php:1130
+#: inc/customizer/general-settings.php:139
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: inc/customizer/customizer_typography.php:1056
+msgid "Paragraph"
+msgstr "Stycke"
+
+#: inc/customizer/customizer_typography.php:981
+msgid "Heading 6 (H6)"
+msgstr "Rubrik 6 (H6)"
+
+#: inc/customizer/customizer_typography.php:907
+msgid "Heading 5 (H5)"
+msgstr "Rubrik 5 (H5)"
+
+#: inc/customizer/customizer_typography.php:832
+msgid "Heading 4 (H4)"
+msgstr "Rubrik 4 (H4)"
+
+#: inc/customizer/customizer_typography.php:758
+#: inc/customizer/customizer_typography.php:1446
+msgid "Heading 3 (H3)"
+msgstr "Rubrik 3 (H3)"
+
+#: inc/customizer/customizer_typography.php:684
+#: inc/customizer/customizer_typography.php:1371
+msgid "Heading 2 (H2)"
+msgstr "Rubrik 2 (H2)"
+
+#: inc/customizer/customizer_typography.php:610
+#: inc/customizer/customizer_typography.php:1295
+msgid "Heading 1 (H1)"
+msgstr "Rubrik 1 (H1)"
+
+#: inc/customizer/customizer_typography.php:594
+msgid "Enable Content Typography"
+msgstr "Aktivera typografi för innehåll"
+
+#: inc/customizer/customizer_typography.php:513
+msgid "Section Sub Title"
+msgstr "Underrubrik för sektion"
+
+#: inc/customizer/customizer_typography.php:438
+msgid "Section Title"
+msgstr "Sektionsrubrik"
+
+#: inc/customizer/customizer_typography.php:423
+msgid "Enable Homepage Sections Typography"
+msgstr "Aktivera typografi för startsidessektioner"
+
+#: inc/customizer/customizer_typography.php:355
+msgid "Enable Slider Typography"
+msgstr "Aktivera typografi för bildspel"
+
+#: inc/customizer/customizer_typography.php:342
+msgid "Slider"
+msgstr "Bildspel"
+
+#: inc/customizer/customizer_typography.php:40
+msgid "Enable Header Typography"
+msgstr "Aktivera typografi för sidhuvud"
+
+#: inc/customizer/customizer_theme_style.php:85
+msgid "Skin Color"
+msgstr "Skalfärg"
+
+#: inc/customizer/customizer_typography.php:112
+#: inc/customizer/customizer_typography.php:185
+#: inc/customizer/customizer_typography.php:258
+#: inc/customizer/customizer_typography.php:332
+#: inc/customizer/customizer_typography.php:399
+#: inc/customizer/customizer_typography.php:496
+#: inc/customizer/customizer_typography.php:571
+#: inc/customizer/customizer_typography.php:667
+#: inc/customizer/customizer_typography.php:741
+#: inc/customizer/customizer_typography.php:815
+#: inc/customizer/customizer_typography.php:889
+#: inc/customizer/customizer_typography.php:964
+#: inc/customizer/customizer_typography.php:1039
+#: inc/customizer/customizer_typography.php:1113
+#: inc/customizer/customizer_typography.php:1188
+#: inc/customizer/customizer_typography.php:1255
+#: inc/customizer/customizer_typography.php:1354
+#: inc/customizer/customizer_typography.php:1429
+#: inc/customizer/customizer_typography.php:1504
+#: inc/customizer/customizer_typography.php:1599
+#: inc/customizer/customizer_typography.php:1672
+#: inc/customizer/customizer_typography.php:1768
+#: inc/customizer/customizer_typography.php:1842
+msgid "Line height (px)"
+msgstr "Radhöjd (px)"
+
+#: inc/customizer/customizer_typography.php:82
+#: inc/customizer/customizer_typography.php:155
+#: inc/customizer/customizer_typography.php:228
+#: inc/customizer/customizer_typography.php:302
+#: inc/customizer/customizer_typography.php:369
+#: inc/customizer/customizer_typography.php:466
+#: inc/customizer/customizer_typography.php:541
+#: inc/customizer/customizer_typography.php:637
+#: inc/customizer/customizer_typography.php:711
+#: inc/customizer/customizer_typography.php:785
+#: inc/customizer/customizer_typography.php:859
+#: inc/customizer/customizer_typography.php:934
+#: inc/customizer/customizer_typography.php:1008
+#: inc/customizer/customizer_typography.php:1083
+#: inc/customizer/customizer_typography.php:1157
+#: inc/customizer/customizer_typography.php:1225
+#: inc/customizer/customizer_typography.php:1323
+#: inc/customizer/customizer_typography.php:1399
+#: inc/customizer/customizer_typography.php:1474
+#: inc/customizer/customizer_typography.php:1569
+#: inc/customizer/customizer_typography.php:1642
+#: inc/customizer/customizer_typography.php:1738
+#: inc/customizer/customizer_typography.php:1812
+msgid "Font family"
+msgstr "Typsnittsfamilj"
+
+#: inc/customizer/customizer_theme_style.php:71
+msgid "Enable custom color skin"
+msgstr "Aktivera anpassat färgskal"
+
+#: inc/customizer/customizer_theme_style.php:48
+msgid "Layout style"
+msgstr "Layoutstil"
+
+#: inc/customizer/customizer_sections_settings.php:59
+msgid "Logo Width"
+msgstr "Loggans bredd"
+
+#: inc/customizer/customizer_color_back_settings.php:496
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: inc/customizer/customizer_color_back_settings.php:487
+msgid "Paragraph Text Color"
+msgstr "Textfärg för stycke"
+
+#: inc/customizer/customizer_color_back_settings.php:475
+msgid "H6 Color"
+msgstr "Färg H6"
+
+#: inc/customizer/customizer_color_back_settings.php:463
+msgid "H5 Color"
+msgstr "Färg H5"
+
+#: inc/customizer/customizer_color_back_settings.php:451
+msgid "H4 Color"
+msgstr "Färg H4"
+
+#: inc/customizer/customizer_color_back_settings.php:439
+msgid "H3 Color"
+msgstr "Färg H3"
+
+#: inc/customizer/customizer_color_back_settings.php:427
+msgid "H2 Color"
+msgstr "Färg H2"
+
+#: inc/customizer/customizer_color_back_settings.php:415
+msgid "H1 Color"
+msgstr "Färg H1"
+
+#: inc/customizer/customizer_color_back_settings.php:404
+#: inc/customizer/customizer_typography.php:580
+msgid "Content"
+msgstr "Innehåll"
+
+#: inc/customizer/customizer_color_back_settings.php:346
+msgid "Breadcrumb Title"
+msgstr "Rubrik för synliga sökvägar"
+
+#: inc/customizer/customizer_color_back_settings.php:332
+#: inc/customizer/customizer_color_back_settings.php:524
+#: inc/customizer/customizer_color_back_settings.php:609
+msgid "Title Color"
+msgstr "Rubrikfärg"
+
+#: inc/customizer/customizer_color_back_settings.php:306
+msgid "Banner Title"
+msgstr "Banner-rubrik"
+
+#: inc/customizer/customizer_color_back_settings.php:293
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/customizer/customizer_color_back_settings.php:234
+#: inc/customizer/customizer_typography.php:275
+msgid "Submenus"
+msgstr "Undermenyer"
+
+#: inc/customizer/customizer_color_back_settings.php:196
+#: inc/customizer/customizer_color_back_settings.php:272
+msgid "Text/Link Color"
+msgstr "Text-/länkfärg"
+
+#: inc/customizer/customizer_color_back_settings.php:170
+#: inc/customizer/customizer_typography.php:201
+msgid "Menus"
+msgstr "Menyer"
+
+#: inc/customizer/customizer_color_back_settings.php:131
+#: inc/customizer/customizer_color_back_settings.php:536
+#: inc/customizer/customizer_color_back_settings.php:621
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: inc/customizer/customizer_color_back_settings.php:105
+#: inc/customizer/customizer_typography.php:128
+msgid "Site Tagline"
+msgstr "Webbplatsslogan"
+
+#: inc/customizer/customizer_color_back_settings.php:91
+#: inc/customizer/customizer_color_back_settings.php:208
+#: inc/customizer/customizer_color_back_settings.php:284
+#: inc/customizer/customizer_color_back_settings.php:395
+#: inc/customizer/customizer_color_back_settings.php:560
+#: inc/customizer/customizer_color_back_settings.php:645
+msgid "Link Hover Color"
+msgstr "Länkfärg vid hovring"
+
+#: inc/customizer/customizer_color_back_settings.php:79
+#: inc/customizer/customizer_color_back_settings.php:383
+#: inc/customizer/customizer_color_back_settings.php:548
+#: inc/customizer/customizer_color_back_settings.php:633
+msgid "Link Color"
+msgstr "Länkfärg"
+
+#: inc/customizer/customizer_color_back_settings.php:53
+#: inc/customizer/customizer_typography.php:55
+msgid "Site Title"
+msgstr "Webbplatsrubrik"
+
+#: inc/customizer/customizer_color_back_settings.php:39
+#: inc/customizer/customizer_color_back_settings.php:156
+#: inc/customizer/customizer_color_back_settings.php:359
+#: inc/customizer/customizer_color_back_settings.php:512
+#: inc/customizer/customizer_color_back_settings.php:585
+msgid "Click here to apply the below color settings"
+msgstr "Klicka här för att tillämpa nedanstående färginställningar"
+
+#: inc/customizer/customizer_color_back_settings.php:22
+#: inc/customizer/customizer_typography.php:26
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: inc/customizer/customizer_color_back_settings.php:15
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: inc/customizer/customizer-recommended-plugin.php:17
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: inc/customizer/customizer-recommended-plugin.php:15
+msgid "Install and Activate"
+msgstr "Installera och aktivera"
+
+#: inc/customizer/customizer-recommended-plugin.php:14
+msgid "Recommended Plugin"
+msgstr "Rekommenderade tillägg"
+
+#: inc/customizer/customizer-recommended-plugin.php:9
+msgid "Install and activate the %s plugin to take full advantage of all the features this theme has to offer."
+msgstr "Installera och aktivera tillägget %s för att dra full nytta av alla funktioner temat erbjuder."
+
+#: inc/customizer/customizer-pro-feature.php:108
+msgid "Dedicated support, widget and sidebar management."
+msgstr "Separat supportavdelning, hantering av widgetar och sidopaneler."
+
+#: inc/customizer/customizer-pro-feature.php:107
+msgid "24/7 professional support for Google Maps."
+msgstr "Professionellt stöd för Google Maps dygnet runt alla dagar"
+
+#: inc/customizer/customizer-pro-feature.php:106
+msgid "Translation-ready, the theme supports popular plugins WPML and Polylang."
+msgstr "Förberett för översättning. Temat har stöd för de populära tilläggen WPML och Polylang."
+
+#: inc/customizer/customizer-pro-feature.php:105
+msgid "The layout manager will help you rearrange all sections."
+msgstr "Layouthanteraren låter dig ändra ordningen på alla sektioner."
+
+#: inc/customizer/customizer-pro-feature.php:103
+msgid "Show all your team members, clients, testimonials on front page."
+msgstr "Visa upp alla era medarbetare, kunder och omdömen på startsidan."
+
+#: inc/customizer/customizer-pro-feature.php:102
+msgid "Theme comes with a beautifully designed section where you can manage your contact details."
+msgstr "Temat innehåller en vackert utformad sektion där du kan hantera er kontaktinformation."
+
+#: inc/customizer/customizer-pro-feature.php:101
+msgid "Add as many services as you like. You can even display each service on a separate page."
+msgstr "Lägg till valfritt antal tjänster. Du kan till och med visa varje enskild tjänst på en separat sida."
+
+#: inc/customizer/customizer-pro-feature.php:100
+msgid "PRO version comes with slide variation options, so you can adjust your content through text alignment."
+msgstr "I PRO-versionen finns det inställningar för bildvarianter så att du kan anpassa innehållet med hjälp av textjustering."
+
+#: inc/customizer/customizer-pro-feature.php:99
+msgid "Create a professional-looking portfolio."
+msgstr "Skapa en portfölj med proffsigt utseende."
+
+#: inc/customizer/customizer-pro-feature.php:98
+msgid "Theme comes with multiple page settings like multiple blog, portfolio 2/3/4 column, about us etc."
+msgstr "Temat innehåller flera olika sidinställningar som multi-blogg, portfölj i 2/3/4 kolumner, om oss och så vidare."
+
+#: inc/customizer/customizer-pro-feature.php:97
+msgid "With individual hook settings, you can insert html or php code according to your needs."
+msgstr "Med inställningar för individuella åtgärds-hooks kan du infoga html- eller PHP-kod där det behövs."
+
+#: inc/customizer/customizer-pro-feature.php:72
+msgid "View PRO Details"
+msgstr "Visa information om PRO"
+
+#: inc/customizer/customizer-pro-feature.php:65
+msgid "UPGRADE TO PRO"
+msgstr "UPPGRADERA TILL PRO"
+
+#: inc/customizer/customizer-pro-feature.php:62
+msgid "Quality Support"
+msgstr "Dedikerad support"
+
+#: inc/customizer/customizer-pro-feature.php:58
+msgid "Section Reordering"
+msgstr "Ändra sektionernas ordning"
+
+#: inc/customizer/customizer-pro-feature.php:50
+msgid "Team Variations"
+msgstr "Varianter för team"
+
+#: inc/customizer/customizer-pro-feature.php:42
+msgid "Testimonial Variations"
+msgstr "Varianter för omdömen"
+
+#: inc/customizer/customizer-pro-feature.php:38
+msgid "Manage Contact Details"
+msgstr "Hantera kontaktuppgifter"
+
+#: inc/customizer/customizer-pro-feature.php:34
+msgid "Callout Section"
+msgstr "Sektion med uppmaning"
+
+#: inc/customizer/customizer-pro-feature.php:30
+msgid "Create Unlimited Services"
+msgstr "Skapa obegränsat antal tjänster"
+
+#: inc/customizer/customizer-pro-feature.php:26
+msgid "Slide Variations"
+msgstr "Bildvarianter"
+
+#: inc/customizer/customizer-pro-feature.php:22
+msgid "Portfolio Management"
+msgstr "Portföljhantering"
+
+#: inc/customizer/customizer-pro-feature.php:18
+msgid "Multiple Page Templates"
+msgstr "Flera olika sidmallar"
+
+#: inc/customizer/customizer-pro-feature.php:14
+msgid "Advanced Hook Settings"
+msgstr "Avancerade inställningar för åtgärds-hooks"
+
+#: inc/customizer/customizer-pro-feature.php:13
+#: inc/customizer/customizer-pro-feature.php:17
+#: inc/customizer/customizer-pro-feature.php:21
+#: inc/customizer/customizer-pro-feature.php:25
+#: inc/customizer/customizer-pro-feature.php:29
+#: inc/customizer/customizer-pro-feature.php:33
+#: inc/customizer/customizer-pro-feature.php:37
+#: inc/customizer/customizer-pro-feature.php:41
+#: inc/customizer/customizer-pro-feature.php:45
+#: inc/customizer/customizer-pro-feature.php:49
+#: inc/customizer/customizer-pro-feature.php:53
+#: inc/customizer/customizer-pro-feature.php:57
+#: inc/customizer/customizer-pro-feature.php:61
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/customizer/blog-page-options.php:16
+msgid "Main Title"
+msgstr "Huvudrubrik"
+
+#: inc/customizer/blog-options.php:77
+msgid "Drag And Drop To Rearrange"
+msgstr "Dra och släpp för att ändra ordningen"
+
+#: inc/customizer/blog-options.php:65
+msgid "Tag"
+msgstr "Etikett"
+
+#: inc/customizer/blog-options.php:64
+msgid "Category"
+msgstr "Kategori"
+
+#: inc/customizer/blog-options.php:63
+msgid "Author"
+msgstr "Författare"
+
+#: inc/customizer/blog-options.php:51
+msgid "Excerpt Length"
+msgstr "Längd på utdrag"
+
+#: inc/customizer/blog-options.php:36
+msgid "Full Content"
+msgstr "Fullständigt innehåll"
+
+#: inc/customizer/blog-options.php:35
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: inc/customizer/blog-options.php:30
+msgid "Choose Options"
+msgstr "Välj alternativ"
+
+#: inc/customizer/blog-options.php:23
+msgid "excerpt"
+msgstr "utdrag"
+
+#: inc/customizer/blog-options.php:13
+msgid "Blog Page"
+msgstr "Bloggsida"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerar tillägg %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerar och aktiverar tillägg %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Installationen av %1$s misslyckades."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ett fel uppstod vid installation av %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Uppdaterar tillägg %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktiveringen av tillägget misslyckades."
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Uppdatera"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installera"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Uppgraderingsmeddelande från tilläggets författare:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktivera %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Uppdatera %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installera %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Typ"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Källa"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Tillägg"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Inga tillägg att installera, uppdatera eller aktivera."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Tillgänglig version:"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installerad version:"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "okänt"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Att aktivera <span class=\"count\">(%s)</span>"
+msgstr[1] "Att aktivera <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Updates Available <span class=\"count\">(%s)</span>"
+msgid_plural "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Uppdatering tillgänglig <span class=\"count\">(%s)</span>"
+msgstr[1] "Uppdateringar tillgängliga <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Att installera <span class=\"count\">(%s)</span>"
+msgstr[1] "Att installera <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Uppdatering rekommenderas"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Kräver uppdatering"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installerat men inte aktiverat"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Inte installerat"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Förpaketerat"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Extern källa"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress filförvar"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Rekommenderade"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v. %s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "och"
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Uppdatering krävs"
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakta administratören för denna webbplats för hjälp."
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Avfärda denna notis"
+
+#: template-parts/content-none.php:5
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Inget matchade dina sökkriterier. Försök igen med några andra nyckelord."
+
+#: inc/header/header-nav.php:13
+msgid "Toggle navigation"
+msgstr "Slå på/av navigering"
+
+#: inc/customizer/single-blog-options.php:86
+msgid "Hide/Show Author Details"
+msgstr "Dölj/visa författardetaljer"
+
+#: inc/customizer/helper-function.php:179
+msgid "Proudly powered by <a href=\"https://wordpress.org\">WordPress</a> | Theme: <a href=\"https://spicethemes.com/spice-software-wordpress-theme\" rel=\"nofollow\">Spice Software</a> by <a href=\"https://spicethemes.com\" rel=\"nofollow\">Spicethemes</a>"
+msgstr "Drivs med <a href=\"https://wordpress.org\">WordPress</a> | Tema: <a href=\"https://spicethemes.com/spice-software-wordpress-theme\" rel=\"nofollow\">Spice Software</a> av <a href=\"https://spicethemes.com\" rel=\"nofollow\">Spicethemes</a>"
+
+#: inc/customizer/general-settings.php:93
+msgid "Enable/Disable Scroll to Top"
+msgstr "Aktivera/inaktivera rulla till toppen"
+
+#: inc/customizer/general-settings.php:77
+msgid "Scroll to Top"
+msgstr "Rulla till toppen"
+
+#: inc/customizer/customizer_typography.php:1785
+msgid "Footer Widget Content"
+msgstr "Sidfotens widgetinnehåll"
+
+#: inc/customizer/customizer_typography.php:1711
+msgid "Footer Widget Title"
+msgstr "Sidfotens widgetrubrik"
+
+#: inc/customizer/customizer_typography.php:1615
+msgid "Sidebar Widget Content"
+msgstr "Sidpanelens widgetinnehåll"
+
+#: inc/customizer/customizer_typography.php:1542
+msgid "Sidebar Widget Title"
+msgstr "Sidpanelens widgetrubrik"
+
+#: inc/customizer/customizer_typography.php:1513
+msgid "Sidebar Widgets"
+msgstr "Sidopanelswidgetar"
+
+#: inc/customizer/customizer_typography.php:1197
+msgid "Blog/Archive/Single Post"
+msgstr "Blogg/arkiv/enskilt inlägg"
+
+#: inc/customizer/customizer_typography.php:97
+#: inc/customizer/customizer_typography.php:170
+#: inc/customizer/customizer_typography.php:243
+#: inc/customizer/customizer_typography.php:317
+#: inc/customizer/customizer_typography.php:384
+#: inc/customizer/customizer_typography.php:481
+#: inc/customizer/customizer_typography.php:556
+#: inc/customizer/customizer_typography.php:652
+#: inc/customizer/customizer_typography.php:726
+#: inc/customizer/customizer_typography.php:800
+#: inc/customizer/customizer_typography.php:874
+#: inc/customizer/customizer_typography.php:949
+#: inc/customizer/customizer_typography.php:1024
+#: inc/customizer/customizer_typography.php:1098
+#: inc/customizer/customizer_typography.php:1173
+#: inc/customizer/customizer_typography.php:1240
+#: inc/customizer/customizer_typography.php:1338
+#: inc/customizer/customizer_typography.php:1414
+#: inc/customizer/customizer_typography.php:1489
+#: inc/customizer/customizer_typography.php:1584
+#: inc/customizer/customizer_typography.php:1657
+#: inc/customizer/customizer_typography.php:1753
+#: inc/customizer/customizer_typography.php:1827
+msgid "Font size (px)"
+msgstr "Textstorlek (px)"
+
+#: inc/customizer/customizer_theme_style.php:11
+msgid "Theme Layout"
+msgstr "Temalayout"
+
+#: inc/customizer/customizer_color_back_settings.php:260
+#: inc/customizer/customizer_color_back_settings.php:597
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: inc/customizer/customizer_color_back_settings.php:220
+msgid "Active Link Color"
+msgstr "Aktiv länkfärg"
+
+#: inc/customizer/customizer_color_back_settings.php:140
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: inc/customizer/customizer-pro-feature.php:46
+msgid "Client Section"
+msgstr "Sektion för klienter"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alla installationer har slutförts."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installerades utan problem."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationsprocessen startar. Denna process kan ta en stund på vissa webbhotell, så ha tålamod."
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alla installationer och aktiveringar har slutförts."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Dölj detaljer"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Visa detaljer"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installerades och aktiverades utan problem."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installations- och aktiveringsprocessen startar. Denna process kan ta en stund på vissa webbhotell, så ha tålamod."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Inga tillägg är tillgängliga för att aktiveras just nu."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Inga tillägg valdes för att aktiveras. Ingen åtgärd vidtogs."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Inga tillägg är tillgängliga för att uppdateras just nu."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Inga tillägg är tillgängliga för att installeras just nu."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Inga tillägg valdes för att uppdateras. Ingen åtgärd vidtogs."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Inga tillägg valdes för att installeras. Ingen åtgärd vidtogs."
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minsta version som krävs:"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alla <span class=\"count\">(%s)</span>"
+msgstr[1] "Alla <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update Not Available"
+msgstr "Obligatorisk uppdatering inte tillgänglig"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Fjärrpaketet av tillägget består av fler än en fil, men filerna är inte paketerade i en mapp."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Kontakta tilläggets leverantör och be dem att paketera sitt tillägg enligt WordPress riktlinjer."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Fjärrpaketet för tillägget innehåller ingen mapp med önskad slug och det gick inte att byta namn."
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Detta tillägg måste uppdateras för att vara kompatibelt med ditt tema."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Det finns ett eller flera obligatoriska eller rekommenderade tillägg att installera, uppdatera eller aktivera."
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alla tillägg installerades och aktiverades utan problem. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Tillägg inte aktiverat. En högre version av %s behövs för detta tema. Uppdatera tillägget."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen åtgärd vidtagen. Tillägg %1$s var redan aktiv."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Följande tillägg aktiverades utan problem:"
+msgstr[1] "Följande tillägg aktiverades utan problem:"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Tillbaka till adminpanelen"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Följande rekommenderat tillägg är för närvarande inaktivt: %1$s."
+msgstr[1] "Följande rekommenderade tillägg är för närvarande inaktiva: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Följande obligatoriskt tillägg är för närvarande inaktivt: %1$s."
+msgstr[1] "Följande obligatoriska tillägg är för närvarande inaktiva: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Det finns en uppdatering tillgänglig för: %1$s."
+msgstr[1] "Det finns uppdateringar tillgängliga för följande tillägg: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Detta tema rekommenderar följande tillägg: %1$s."
+msgstr[1] "Detta tema rekommenderar följande tillägg: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Detta tema kräver följande tillägg: %1$s."
+msgstr[1] "Detta tema kräver följande tillägg: %1$s."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Uppdaterar tillägg: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installerar tillägg: %s"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installera tillägg"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installera obligatoriska tillägg"
+
+#: inc/breadcrumbs/breadcrumbs.php:100
+msgid "Tag:"
+msgstr "Etikett:"
+
+#: inc/breadcrumbs/breadcrumbs.php:88
+msgid "Category: "
+msgstr "Kategori: "
+
+#: inc/breadcrumbs/breadcrumbs.php:84
+msgid "Error 404"
+msgstr "Fel 404"
+
+#: inc/breadcrumbs/breadcrumbs.php:50 inc/breadcrumbs/breadcrumbs.php:59
+#: inc/customizer/blog-page-options.php:12 inc/menu/default_menu_walker.php:20
+msgid "Home"
+msgstr "Hem"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:159
+msgid "Read More"
+msgstr "Läs mer"
+
+#: functions.php:104
+msgid "Primary"
+msgstr "Primär"
+
+#: functions.php:63
+msgid "Page"
+msgstr "Sida"
+
+#: comments.php:86
+msgid "Leave a Reply"
+msgstr "Svara"
+
+#: comments.php:83
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: comments.php:81
+msgid "Log out"
+msgstr "Logga ut"
+
+#: comments.php:81
+msgid "Log out from this Account"
+msgstr "Logga ut från detta konto"
+
+#: comments.php:81
+msgid "Logged in as"
+msgstr "Inloggad som"
+
+#: comments.php:79
+msgid "Message"
+msgstr "Meddelande"
+
+#: comments.php:66
+msgid "Website"
+msgstr "Webbplats"
+
+#: comments.php:59
+msgid "Your Name"
+msgstr "Ditt namn"
+
+#: admin/tab-pages/getting-started.php:139
+msgid "Changelog"
+msgstr "Ändringslogg"
+
+#: admin/tab-pages/getting-started.php:133
+msgid "Pre-sales enquiry"
+msgstr "Frågor innan köp"
+
+#: admin/tab-pages/getting-started.php:130
+msgid "Spice Software Plus Details"
+msgstr "Uppgifter om Spice Software Plus"
+
+#: admin/tab-pages/getting-started.php:127
+msgid "Your feedback is valuable to us"
+msgstr "Din återkoppling är värdefull för oss"
+
+#: admin/tab-pages/getting-started.php:124
+msgid "Spice Software Theme Support"
+msgstr "Support for temat Spice Software"
+
+#: admin/tab-pages/getting-started.php:120
+msgid "Spice Software Plus Demo"
+msgstr "Demo av Spice Software Plus"
+
+#: admin/tab-pages/getting-started.php:117
+msgid "Spice Software Demo"
+msgstr "Demo av Spice Software"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Useful Links"
+msgstr "Användbara länkar"
+
+#: admin/tab-pages/getting-started.php:71
+msgid "Homepage Sections Before/After Hooks"
+msgstr "Åtgärds-hooks före/efter startsidessektioner"
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Testimonial section with grid effect"
+msgstr "Sektion för omdömen med rutnätseffekt"
+
+#: admin/tab-pages/getting-started.php:65
+msgid "Shop section with carousel effect"
+msgstr "E-butikssektion med karuselleffekt"
+
+#: admin/tab-pages/getting-started.php:62
+msgid "Shop section with unlimited items"
+msgstr "E-butikssektion med valfritt antal produkter"
+
+#: admin/tab-pages/getting-started.php:59
+msgid "Team section with grid effect"
+msgstr "Teamsektion med rutnätseffekt"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Drag and drop section orders"
+msgstr "Sortera sektionerna med dra och släpp"
+
+#: admin/tab-pages/getting-started.php:50
+msgid "Multiple Blog Templates"
+msgstr "Flera bloggmallar"
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Client section"
+msgstr "Sektion med kunder"
+
+#: admin/tab-pages/getting-started.php:44
+msgid "Google Maps section"
+msgstr "Sektion med Google Maps"
+
+#: admin/tab-pages/getting-started.php:41
+msgid "Funfact section"
+msgstr "Sektion ”Intressanta fakta”"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Portfolio section"
+msgstr "Sektion för portfölj"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Unlimited slides"
+msgstr "Obegränsat antal bilder"
+
+#: admin/tab-pages/getting-started.php:25
+msgid "Additional features in Spice Software Plus"
+msgstr "Ytterligare funktioner i Spice Software Plus"
+
+#: admin/tab-pages/getting-started.php:107
+#: inc/customizer/customizer_theme_style.php:59
+msgid "Theme Style Settings"
+msgstr "Inställningar för temats stilar"
+
+#: admin/tab-pages/getting-started.php:104
+#: inc/customizer/customizer_typography.php:7
+msgid "Typography Settings"
+msgstr "Typografiinställningar"
+
+#: admin/tab-pages/getting-started.php:101
+#: inc/customizer/customizer_color_back_settings.php:11
+msgid "Colors & Background"
+msgstr "Färger och bakgrund"
+
+#: admin/tab-pages/getting-started.php:98
+#: inc/customizer/general-settings.php:14
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: admin/tab-pages/getting-started.php:95
+#: inc/customizer/customizer_typography.php:409
+msgid "Homepage Sections"
+msgstr "Startsidessektioner"
+
+#: admin/tab-pages/getting-started.php:92
+#: inc/customizer/customizer_color_back_settings.php:569
+#: inc/customizer/customizer_typography.php:1682
+#: inc/customizer/general-settings.php:275
+#: inc/customizer/general-settings.php:288
+msgid "Footer Widgets"
+msgstr "Sidfotswidgetar"
+
+#: admin/tab-pages/getting-started.php:89
+#: inc/customizer/customizer_sections_settings.php:45
+msgid "Blog Options"
+msgstr "Blogginställningar"
+
+#: admin/tab-pages/getting-started.php:86
+msgid "Site Logo"
+msgstr "Webbplatslogga"
+
+#: admin/tab-pages/getting-started.php:82
+msgid "Links to Customizer Settings"
+msgstr "Länkar till inställningar i anpassaren"
+
+#: admin/tab-pages/getting-started.php:10
+msgid "Spice Software Theme Configuration"
+msgstr "Konfiguration av temat Spice Software"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Aktivera nu"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate Spice Box now"
+msgstr "Aktivera Spice Box nu"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the Spice Box plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Du har installerat tillägget Spice Box. För att kunna utnyttja dess funktioner i anpassaren behöver du aktivera det."
+
+#: admin/inc/include-companion.php:80
+msgid "Install Spice Box Now"
+msgstr "Installera Spice Box nu"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the Spice Box plugin."
+msgstr "För att kunna utnyttja temats funktioner i anpassaren behöver du installera tillägget Spice Box."
+
+#: admin/inc/class-spicethemes-about-page.php:488 functions.php:207
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:484
+msgid "To create a shop page you just need to install this plugin & activate it."
+msgstr "För att skapa en e-handelssida behöver du bara installera och aktivera detta tillägg."
+
+#: admin/inc/class-spicethemes-about-page.php:482
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/inc/class-spicethemes-about-page.php:479
+msgid "You can add different banner image for a different page or post according to you."
+msgstr "Du kan lägga in en separat bannerbild för varje sida eller inlägg utifrån dina behov."
+
+#: admin/inc/class-spicethemes-about-page.php:477 functions.php:202
+msgid "Unique Headers"
+msgstr "Unique Headers"
+
+#: admin/inc/class-spicethemes-about-page.php:471 functions.php:192
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:465
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+#: functions.php:197
+msgid "Spice Box"
+msgstr "Spice Box"
+
+#: admin/inc/class-spicethemes-about-page.php:326
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktivt"
+
+#: admin/inc/class-spicethemes-about-page.php:323
+#: inc/class-tgm-plugin-activation.php:2726
+#: inc/customizer/customizer-recommended-plugin.php:16
+msgid "Activate"
+msgstr "Aktivera"
+
+#: admin/inc/class-spicethemes-about-page.php:321
+msgid "Activate %s now"
+msgstr "Aktivera %s nu"
+
+#: admin/inc/class-spicethemes-about-page.php:304
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Installera och aktivera"
+
+#: admin/inc/class-spicethemes-about-page.php:302
+msgid "Install %s now"
+msgstr "Installera %s nu"
+
+#: admin/tab-pages/getting-started.php:74
+msgid "One Click Demo Import"
+msgstr "Import av demo med ett klick"
+
+#: admin/inc/class-spicethemes-about-page.php:224
+#: inc/customizer/customizer-recommended-plugin.php:13
+msgid "Recommended Actions"
+msgstr "Rekommenderade åtgärder"
+
+#: admin/inc/class-spicethemes-about-page.php:218
+msgid "Getting Started"
+msgstr "Komma igång"
+
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "Get started with Spice Software theme"
+msgstr "Kom igång med temat Spice Software"
+
+#: admin/inc/class-spicethemes-about-page.php:132
+msgid "Spice Software theme is installed. To take full advantage of the features this theme has to offer visit our %1$swelcome page%2$s"
+msgstr "Temat Spice Software är nu installerat. För att kunna dra full nytta av temats alla funktioner bör du gå till vår %1$svälkomstsida%2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:119
+msgid "Welcome to %1$s %2$s"
+msgstr "Välkommen till %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:118
+msgid "About %1$s %2$s"
+msgstr "Om %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:110
+msgid "View Theme Info"
+msgstr "Visa temainformation"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Fel"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+#: inc/customizer-notify/spice-software-customizer-notify.php:109
+msgid "Activating"
+msgstr "Aktiverar"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Installerar"
+
+#: 404.php:18
+msgid "Go To Homepage"
+msgstr "Gå till startsidan"
+
+#: 404.php:16
+msgid "This page isn't available."
+msgstr "Denna sida är inte tillgänglig."
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Tillägg aktiverat utan problem."
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Tillbaka till installeraren för obligatoriska tillägg"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Börja aktivera tillägg"
+msgstr[1] "Börja aktivera tillägg"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Börja uppdatera tillägg"
+msgstr[1] "Börja uppdatera tillägg"
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Börja installera tillägg"
+msgstr[1] "Börja installera tillägg"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Följande tillägg måste uppdateras till sin senaste version för att säkerställa maximal kompatibilitet med detta tema: %1$s."
+msgstr[1] "Följande tillägg måste uppdateras till sina senaste versioner för att säkerställa maximal kompatibilitet med detta tema: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Något gick fel med tilläggets API."
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: admin/tab-pages/getting-started.php:136
+msgid "Free vs Plus"
+msgstr "Jämför gratis med Plus"
+
+#: 404.php:15
+msgid "SORRY!"
+msgstr "TYVÄRR!"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/spice-software-wordpress-theme/"
+msgstr "https://spicethemes.com/spice-software-wordpress-theme/"
